@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Emanuel!
 
-- Web Developer [@Byside](https://www.byside.com/) based in Porto, Portugal.
+- Web Developer [@Coremedia](https://www.coremedia.com/) based in Porto, Portugal.
 - How to reach me: hello@emanuelcosta.dev
 
 <!--
